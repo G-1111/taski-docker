@@ -60,4 +60,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: g11110-docker-hub/taski_backend:latest 
+          tags: g11110/taski_backend:latest 
